@@ -4,7 +4,6 @@ I had to build some models for **Algorithmic Trading in Cryptocurrency Market** 
 
 This repository contains some of the models I have worked on so far 🧠📊
 
----
 
 ## 📈 Included Trading Models
 
@@ -19,8 +18,6 @@ This repository contains some of the models I have worked on so far 🧠📊
 | 7 | **Momentum Strategy**                         | 🟦 Trend-Following | Buys assets that have had recent positive returns, sells those with negative returns. |
 | 8 | **Logistic Regression on Engineered Features**| 🧠 Machine Learning | Predicts next-day price direction based on engineered features like moving averages and returns. |
 
----
 
 📌 _More strategies and model comparisons coming soon!_
 
----
